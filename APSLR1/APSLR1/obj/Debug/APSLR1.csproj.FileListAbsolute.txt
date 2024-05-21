@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\APSLR1\APSLR1\bin\APSLR1.dll.config
+C:\Users\User\source\repos\APSLR1\APSLR1\bin\APSLR1.dll
+C:\Users\User\source\repos\APSLR1\APSLR1\bin\APSLR1.pdb
+C:\Users\User\source\repos\APSLR1\APSLR1\obj\Debug\APSLR1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\APSLR1\APSLR1\obj\Debug\APSLR1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\APSLR1\APSLR1\obj\Debug\APSLR1.dll
+C:\Users\User\source\repos\APSLR1\APSLR1\obj\Debug\APSLR1.pdb
+G:\Projects\repos\APSLR1\APSLR1\bin\APSLR1.dll.config
+G:\Projects\repos\APSLR1\APSLR1\bin\APSLR1.dll
+G:\Projects\repos\APSLR1\APSLR1\bin\APSLR1.pdb
+G:\Projects\repos\APSLR1\APSLR1\obj\Debug\APSLR1.csproj.CoreCompileInputs.cache
+G:\Projects\repos\APSLR1\APSLR1\obj\Debug\APSLR1.dll
+G:\Projects\repos\APSLR1\APSLR1\obj\Debug\APSLR1.pdb
+G:\Projects\repos\APSLR1\APSLR1\obj\Debug\APSLR1.csproj.AssemblyReference.cache
